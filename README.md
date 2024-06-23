@@ -5,7 +5,7 @@ https://youtu.be/8jNkHfn2C8U
 #### Description:
 
 `Material Library Manager` is a tool created for Maya using Python. It is designed to render out thumbnails of materials in a directory, _such as a material asset library_, so that artists can preview a material when viewing it in the content browser.
-<p align="center"> <img src="https://github.com/nrjones-dev/AssetLibrary/assets/115369332/f78acde7-7015-46ab-9701-c0f261ef8ca3" /> </p>
+<p align="center"> <img src="https://github.com/nrjones-dev/material_library_manager/assets/115369332/caaf6828-c782-4bb0-922c-78811fe01fc6" /> </p>
 
 # Contents
 
@@ -39,7 +39,7 @@ The functionality of this tool is broken down into 4 scripts, each focusing on a
 This script is responsible for setting the core directories, the name of the geometry that materials should be assigned to as well as creating the UI for the user.
 
 When the script shortcut is activated on Maya's shelf, the main function within this script will be triggered, creating the UI seen at the top of this page.
-<p> <img src="https://github.com/nrjones-dev/AssetLibrary/assets/115369332/37512692-a0a2-4d3b-be8d-d457dcd6551e"> </p>
+<p> <img src="https://github.com/nrjones-dev/material_library_manager/assets/115369332/df40db26-16bb-4eaa-a8bf-b6ca53838a13"> </p>
 
 This UI is set at a preset resolution and is not resizeable. It will also be destroyed and re-created if the user attempts to open multiple versions. Inside the UI is a title, two buttons and an output window. 
 
