@@ -114,3 +114,4 @@ There are some improvements I would like to implement on this tool in the future
 
 * Allow the user to set default directories in the script, but not require it - allowing this to be done through the user interface.
 * Removal of Swatch files when materials are removed from the database.
+* Implement PySide or PyQt to keep with industry standards of UI inside Maya.
